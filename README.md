@@ -8,10 +8,9 @@
 |------|------|
 | [frontend/](frontend/) | 前端设计流程、组件模式、AI 搭建工作流 |
 | [backend/](backend/) | 后端架构模式、设计范式 |
-| [docs/](docs/) | 方法论、信息采集 SOP、vibe-learn 等 |
-| [tools/](tools/) | 开发工具配置、环境指南、Git 工作流 |
+| [docs/](docs/) | 方法论、信息采集 SOP、作图工作流、vibe-learn 等 |
+| [tools/](tools/) | 开发工具配置、环境指南、Git 工作流、Handoff |
 | [project-management/](project-management/) | 分支规范、PR 流程、Scrum 框架 |
-| [docs/作图工作流.md](docs/作图工作流.md) | 论文作图配色与样式规范 |
 
 ## 约定
 
