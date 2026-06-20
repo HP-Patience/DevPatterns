@@ -4,12 +4,14 @@
 
 ## 内容
 
-| 目录 | 说明 |
+| 目录 / 文件 | 说明 |
 |------|------|
 | [frontend/](frontend/) | 前端设计流程、组件模式、AI 搭建工作流 |
 | [backend/](backend/) | 后端架构模式、设计范式 |
+| [docs/](docs/) | 方法论、信息采集 SOP、vibe-learn 等 |
 | [tools/](tools/) | 开发工具配置、环境指南、Git 工作流 |
-| [project-management/](project-management/) | 分支规范、PR 流程、项目管理约定 |
+| [project-management/](project-management/) | 分支规范、PR 流程、Scrum 框架 |
+| [作图工作流.md](作图工作流.md) | 论文作图配色与样式规范 |
 
 ## 约定
 
@@ -19,11 +21,11 @@
 
 ## 最近更新
 
-- **2026-06-20** — 添加信息采集 SOP（视频篇），Inbox→提词→总结→Archive 闭环流程
-- **2026-06-15** — 添加论文作图工作流笔记，覆盖 C4 配色/样式规范
-- **2026-06-14** — 添加 vibe-learn 使用场景说明，vibe coding 学习指南
-- **2026-06-13** — repo 架构设计 spec，分层策略 + 决策记录
-- **2026-06-12** — 前端设计流程笔记，含 AI 搭建工作流和 14+ 张配图
+- **2026-06-20** — [信息采集SOP-视频篇](docs/信息采集SOP-视频篇.md)
+- **2026-06-15** — [作图工作流](作图工作流.md)（C4 配色/样式规范）
+- **2026-06-14** — [vibe-learn 使用场景](docs/skills/vibe-learn-使用场景.md)
+- **2026-06-13** — [repo 架构设计 spec](docs/superpowers/specs/2026-06-13-repo-architecture-design.md)
+- **2026-06-12** — [前端设计流程](frontend/前端设计流程.md)
 
 ## 贡献
 
