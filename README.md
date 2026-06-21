@@ -20,11 +20,11 @@
 
 ## 最近更新
 
+- **2026-06-22** — [信息采集SOP](docs/信息采集SOP.md)（统一元数据格式 Type A、Archive 自动补标签、Prompt 模板更新）
+- **2026-06-20** — [PWA 图标设计与应用 SOP](frontend/PWA图标设计与应用SOP.md)
 - **2026-06-20** — [信息采集SOP](docs/信息采集SOP.md)（视频篇→通用版）
 - **2026-06-15** — [作图工作流](docs/作图工作流.md)（C4 配色/样式规范）
 - **2026-06-14** — [vibe-learn 使用场景](docs/skills/vibe-learn-使用场景.md)
-- **2026-06-13** — [repo 架构设计 spec](docs/superpowers/specs/2026-06-13-repo-architecture-design.md)
-- **2026-06-12** — [前端设计流程](frontend/前端设计流程.md)
 
 ## 贡献
 
